@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: teja0466/tejab:mcfbapp
+          image: teja0466/tejab:9
           ports:
             - containerPort: 80
       
