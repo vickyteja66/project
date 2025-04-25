@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: devopshubg333/batch15d:mcfbapp
+          image: teja0466/tejab:mcfbapp
           ports:
             - containerPort: 80
       
